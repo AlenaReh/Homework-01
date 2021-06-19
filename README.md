@@ -9,7 +9,7 @@ https://alenareh.github.io/Website-refactoring/
 
 ## Demo
 
-![alt text](digital-marketing-meeting.jpg)
+![alt text](assets/images/Horiseon-demo.png)
 
 ## Contributors
 
