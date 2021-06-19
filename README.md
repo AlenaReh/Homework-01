@@ -10,7 +10,7 @@ https://alenareh.github.io/Website-refactoring/
 ## Demo
 
 ![alt text](assets/images/demo.png)
-![alt text](aassets/images/demo2.png)
+![alt text](assets/images/demo2.png)
 ![alt text](assets/images/demo3.png)
 
 
