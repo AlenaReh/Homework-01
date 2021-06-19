@@ -9,10 +9,7 @@ https://alenareh.github.io/Website-refactoring/
 
 ## Demo
 
-![alt text](assets/images/demo.png)
-![alt text](assets/images/demo2.png)
-![alt text](assets/images/demo3.png)
-
+![alt text](digital-marketing-meeting.jpg)
 
 ## Contributors
 
